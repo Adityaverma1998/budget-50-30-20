@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "136089834016",
+    "project_id": "fintri-efe41",
+    "storage_bucket": "fintri-efe41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136089834016:android:8a534948fceff0334a2245",
+        "android_client_info": {
+          "package_name": "com.adi.tech.budgefy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136089834016-9kn2q97ap8eohi9d2n7fcrsobqt4rkii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adi.tech.budgefy",
+            "certificate_hash": "1449c392edf6c314a6a0f4bcc3bacaa71e858181"
+          }
+        },
+        {
+          "client_id": "136089834016-cf5fct8me2fb6ok9gk1volfe8f6dqf8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIv-fznnS0BhdTgGRaBJdPlbDBpH8s6Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136089834016-cf5fct8me2fb6ok9gk1volfe8f6dqf8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
